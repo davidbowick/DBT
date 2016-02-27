@@ -1,0 +1,11 @@
+{
+    "name": "dbt",
+    "title": "DBT Support",
+    "description": "Adds functionality to add .dbt suppoert",
+    "version": "0.0.1",
+    "author": "David Bowick <dbowick@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.31.0"
+    }
+}
